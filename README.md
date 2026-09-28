@@ -55,3 +55,4 @@ The dataset contains:
 ---
 
 ## 📂 Repository Structure
+![Executive Overview](images/overview-dashboard.png)
